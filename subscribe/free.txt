@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：QuantumultX
-# 创建时间：2024-01-11 14:34:21
+# 创建时间：2024-01-30 16:44:38
 # 使用模版：V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：23
 ####################################
 
 [general]
@@ -19,16 +19,16 @@ server = 1.0.0.1
 server = 8.8.8.8
 
 [policy]
-static = 🚀 节点选择, ♻️ 自动选择, DIRECT, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
-url-latency-benchmark = ♻️ 自动选择, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
-static = 🌍 国外媒体, 🚀 节点选择, ♻️ 自动选择, 🎯 全球直连, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
-static = 📲 电报信息, 🚀 节点选择, 🎯 全球直连, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
-static = Ⓜ️ 微软服务, 🎯 全球直连, 🚀 节点选择, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
-static = 🍎 苹果服务, 🚀 节点选择, 🎯 全球直连, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
+static = 🚀 节点选择, ♻️ 自动选择, DIRECT, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
+url-latency-benchmark = ♻️ 自动选择, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
+static = 🌍 国外媒体, 🚀 节点选择, ♻️ 自动选择, 🎯 全球直连, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
+static = 📲 电报信息, 🚀 节点选择, 🎯 全球直连, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
+static = Ⓜ️ 微软服务, 🎯 全球直连, 🚀 节点选择, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
+static = 🍎 苹果服务, 🚀 节点选择, 🎯 全球直连, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
 static = 🎯 全球直连, DIRECT, 🚀 节点选择, ♻️ 自动选择
 static = 🛑 全球拦截, REJECT, DIRECT
 static = 🍃 应用净化, REJECT, DIRECT
-static = 🐟 漏网之鱼, 🚀 节点选择, 🎯 全球直连, ♻️ 自动选择, 🇪🇸_ES_西班牙, 🇩🇪_DE_德国, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5
+static = 🐟 漏网之鱼, 🚀 节点选择, 🎯 全球直连, ♻️ 自动选择, 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩, 🇺🇸_US_美国_2, 🇺🇸_US_美国_3, 🇺🇸_US_美国_4, 🇺🇸_US_美国_5, 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其, 🇺🇸_US_美国->🇩🇪_DE_德国_1, 🇺🇸_US_美国->🇮🇷_IR_伊朗_3, 🇺🇸_US_美国->🇳🇱_NL_荷兰, 🇺🇸_US_美国_7, 🇩🇪_DE_德国, 🇺🇸_US_美国->🇮🇷_IR_伊朗_4, 🇺🇸_US_美国_9, 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦, 🇺🇸_US_美国_10, 🇺🇸_US_美国_12, 🇺🇸_US_美国_14, 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其, 🇺🇸_US_美国_15, 🇺🇸_US_美国_16, 🇺🇸_US_美国_17, 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
 
 [server_remote]
 
@@ -37,12 +37,29 @@ static = 🐟 漏网之鱼, 🚀 节点选择, 🎯 全球直连, ♻️ 自动�
 [rewrite_remote]
 
 [server_local]
-shadowsocks = 92.38.171.89:989, method = aes-256-cfb, password = f8f7aCzcPKbsF8p3, fast-open = false, tag = 🇪🇸_ES_西班牙
-vmess = 138.201.184.34:443, method = chacha20-ietf-poly1305, password = 4edffbd4-cac3-40bc-ca2a-0329c7494346, aead = true, tls13 = true, obfs = wss, obfs-host = fast.com, obfs-uri = /@VPNLime, fast-open = false, tag = 🇩🇪_DE_德国
-vmess = 104.21.32.215:8880, method = chacha20-ietf-poly1305, password = ce9aadc8-8c6e-4867-d247-9a84b469ac27, aead = true, tls13 = false, obfs = ws, obfs-host = a3.bcbot.in, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_2
-vmess = 104.17.2.183:80, method = chacha20-ietf-poly1305, password = f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, aead = true, tls13 = false, obfs = ws, obfs-host = v3ra3do.wakeuptimerap.shop, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_3
-shadowsocks = 212.102.47.198:443, method = aes-128-cfb, password = shadowsocks, fast-open = false, tag = 🇺🇸_US_美国_4
-vmess = a3.bcbot.in:8880, method = chacha20-ietf-poly1305, password = ce9aadc8-8c6e-4867-d247-9a84b469ac27, aead = true, tls13 = false, obfs = ws, obfs-host = a3.bcbot.in, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_5
+vmess = 195.14.146.81:80, method = chacha20-ietf-poly1305, password = f0028153-2a2d-45fe-b44e-a1a6dbd0c65e, aead = true, tls13 = false, obfs = ws, obfs-host = saman8888.servecounterstrike.com, obfs-uri = /@forwardv2ray, fast-open = false, tag = 🇨🇾_CY_塞浦路斯->🇹🇷_TR_土耳其
+vmess = 173.249.197.176:443, method = chacha20-ietf-poly1305, password = e4c9dc48-f9dc-4d9b-9318-a3933d113736, aead = true, tls13 = true, obfs = over-tls, fast-open = false, tag = 🇺🇸_US_美国->🇵🇳_PN_皮特凯恩
+vmess = 172.64.150.65:2095, method = chacha20-ietf-poly1305, password = 657140e4-fb53-4404-80b7-fcbac652671f, aead = true, tls13 = false, obfs = ws, obfs-host = us82pRzxDMb.fzbqfrse.xyz, obfs-uri = /video/qYZue4zaWS, fast-open = false, tag = 🇺🇸_US_美国_2
+vmess = cfcdn1.sanfencdn9.com:2095, method = chacha20-ietf-poly1305, password = 657140e4-fb53-4404-80b7-fcbac652671f, aead = true, tls13 = false, obfs = ws, obfs-host = us82pRzxDMb.fzbqfrse.xyz, obfs-uri = /video/qYZue4zaWS, fast-open = false, tag = 🇺🇸_US_美国_3
+vmess = www.coldstone.club:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.coldstone.club, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_4
+vmess = 104.21.83.10:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.coldstone.club, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_5
+vmess = 185.48.136.150:80, method = chacha20-ietf-poly1305, password = c220f88c-8883-44aa-b66f-f4776a4053d7, aead = true, tls13 = false, obfs = ws, obfs-host = xyz33.servecounterstrike.com, obfs-uri = /@forwardv2ray, fast-open = false, tag = 🇰🇬_KG_吉尔吉斯斯坦->🇹🇷_TR_土耳其
+vmess = 104.21.73.14:8880, method = chacha20-ietf-poly1305, password = 45f63e92-f782-4cac-84b8-e61cb5a5bfd0, aead = true, tls13 = false, obfs = ws, obfs-host = yaghoob55freenodes.repaco69437403.workers.dev, obfs-uri = /adenc35.fixedlfoat.top/linkws, fast-open = false, tag = 🇺🇸_US_美国->🇩🇪_DE_德国_1
+vmess = www.crispyrainbow.biz:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.crispyrainbow.biz, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国->🇮🇷_IR_伊朗_3
+vmess = 104.18.202.250:2082, method = chacha20-ietf-poly1305, password = 03fcc618-b93d-6796-6aed-8a38c975d581, aead = true, tls13 = false, obfs = ws, obfs-host = erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev, obfs-uri = /nina.bond/linkvws, fast-open = false, tag = 🇺🇸_US_美国->🇳🇱_NL_荷兰
+vmess = 104.19.234.82:2095, method = chacha20-ietf-poly1305, password = 657140e4-fb53-4404-80b7-fcbac652671f, aead = true, tls13 = false, obfs = ws, obfs-host = us82pRzxDMb.fzbqfrse.xyz, obfs-uri = /video/qYZue4zaWS, fast-open = false, tag = 🇺🇸_US_美国_7
+trojan = 5.104.108.120:443, password = e86e242e-b5d5-46ae-a410-3684f7d70ac2, over-tls = true, tls-host = , tls13 = false, fast-open = false, udp-relay = true, tls-verification = true, tag = 🇩🇪_DE_德国
+vmess = www.darkroom.lol:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.darkroom.lol, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国->🇮🇷_IR_伊朗_4
+vmess = 172.67.166.190:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.crispyrainbow.online, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_9
+vmess = 151.248.104.91:80, method = chacha20-ietf-poly1305, password = 75916879-adcf-45b3-98d8-54a2412470b5, aead = true, tls13 = false, obfs = ws, obfs-host = sahar55.serveirc.com, obfs-uri = /@forwardv2ray, fast-open = false, tag = 🇧🇭_BH_巴林->🇷🇺_RU_俄罗斯联邦
+vmess = be1-vmess.sshmax.xyz:80, method = chacha20-ietf-poly1305, password = 38df59ec-30e2-45e9-86c7-5a58667e6994, aead = true, tls13 = false, obfs = ws, obfs-uri = /vmess, obfs-host = be1-vmess.sshmax.xyz, fast-open = false, tag = 🇺🇸_US_美国_10
+vmess = www.blueberrywindow.online:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.blueberrywindow.online, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_12
+vmess = 172.67.212.114:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.crispyrainbow.biz, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_14
+vmess = 197.215.140.234:80, method = chacha20-ietf-poly1305, password = f0028153-2a2d-45fe-b44e-a1a6dbd0c65e, aead = true, tls13 = false, obfs = ws, obfs-host = saman8888.servecounterstrike.com, obfs-uri = /@forwardv2ray, fast-open = false, tag = 🇱🇾_LY_利比亚->🇹🇷_TR_土耳其
+vmess = www.crispyrainbow.online:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.crispyrainbow.online, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_15
+vmess = cfcdn1.yuzhoucloud003.xyz:2052, method = chacha20-ietf-poly1305, password = 4eff3792-6078-4ad1-aa31-7772830c78ac, aead = true, tls13 = false, obfs = ws, obfs-host = huzfxqdgus1.zvhdeaof.xyz, obfs-uri = /video/LpPP8QNC, fast-open = false, tag = 🇺🇸_US_美国_16
+vmess = 104.21.23.176:8080, method = chacha20-ietf-poly1305, password = 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, aead = true, tls13 = false, obfs = ws, obfs-host = www.crispyrainbow.biz, obfs-uri = /, fast-open = false, tag = 🇺🇸_US_美国_17
+trojan = cdn-16.cdn2cdn.com:2083, password = gviRoLVUKA5kBX2M0gJSvg, over-tls = true, tls-host = cdn16.cdn2cdn.com, tls13 = false, fast-open = false, udp-relay = true, tls-verification = true, tag = 🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦
 
 [filter_local]
 # 本地/局域网地址
